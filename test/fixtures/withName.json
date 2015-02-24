@@ -1,0 +1,7 @@
+{
+  "name": "object with a name property",
+  "valid": true,
+  "object": {
+    "name": "Super Test Corporation"
+  }
+}
